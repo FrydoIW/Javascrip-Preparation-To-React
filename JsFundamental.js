@@ -196,7 +196,7 @@ console.log("\n=== 10. ASYNC/AWAIT (Data Fetching di React) ===");
   }
 }
 
-console.log("\n=== 11. EVENT HANDLING (Konsep untuk React) ===");
+console.log("\n=== 11. EVENT HANDLING (Konsep untuk React) DOM (Document Object Model) ===");
 {
   const handleClick = (event) => {
     console.log("Clicked!", event.target);
